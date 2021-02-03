@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7B9B7DBE-1979-4291-A772-C2252271AD7D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55226962-5C36-446C-9D45-04A48165AD8E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightSearchRSN/APIManager/APIManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "-ticketsWithRequest:withCompletion:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55226962-5C36-446C-9D45-04A48165AD8E - fb35fbf29bed6c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[APIManager ticketsWithRequest:withCompletion:]"
+                  moduleName = "FlightSearchRSN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeyrazgulyaev/Documents/Programming/GeekBrainsCourses/10iOSDevInObjectiveC/Lesson06/HomeWork/FlightSearchRSN/FlightSearchRSN/APIManager/APIManager.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "55226962-5C36-446C-9D45-04A48165AD8E - d1f54f964e8e20d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__48-[APIManager ticketsWithRequest:withCompletion:]_block_invoke"
+                  moduleName = "FlightSearchRSN"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeyrazgulyaev/Documents/Programming/GeekBrainsCourses/10iOSDevInObjectiveC/Lesson06/HomeWork/FlightSearchRSN/FlightSearchRSN/APIManager/APIManager.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "79">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
