@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  FlightSearchRSN
+
+  Created by Sergey Razgulyaev on 16.02.2021.
+  
+*/
+
+"CFBundleDisplayName" = "Flight Search";
+"CFBundleName" = "Flight Search";

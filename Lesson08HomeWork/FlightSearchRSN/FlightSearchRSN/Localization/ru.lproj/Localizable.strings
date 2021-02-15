@@ -1,0 +1,89 @@
+/* 
+  Localizable.strings
+  FlightSearchRSN
+
+  Created by Sergey Razgulyaev on 15.02.2021.
+  
+*/
+
+//MARK: - PageViewController
+"titleAboutApplication" = "О приложении";
+"titleTickets" = "Билеты";
+"titleMapWithPrices" = "Карта с ценами";
+"titleFavorites" = "Избранное";
+"contentAboutApplication" = "Воспользуйтесь нашим приложением для поиска рейсов";
+"contentTickets" = "Находите самые дешевые авиабилеты";
+"contentMapWithPrices" = "Просматривайте карту с ценами на авиабилеты";
+"contentFavorites" = "Сохраняйте билеты в избранном";
+"nextButtonTitle" = "Далее";
+"readyButtonTitle" = "Готово";
+
+//MARK: - FinderViewController
+"finderViewControllerTitle" = "Поиск";
+"mainLabelInFinderViewController" = "Найди свой рейс";
+"newsLabelInFinderViewController" = "Авиановости";
+"newsContentInFinderViewController" = "Международный аэропорт Шереметьево в Москве вновь открыл Терминал D на полную мощность с 27 июля 2020 года. Аэропорт полностью подготовлен к восстановлению международного воздушного движения, с учетом необходимости обеспечения безопасности и здоровья пассажиров и гостей.";
+"goToFlightSearchButtonTitle" = "Перейти к поиску авиабилетов";
+"travelDestinationsButtonTitle" = "Направления для путешествий";
+
+//MARK: - FinderViewController
+"flightSearchViewControllerTitle" = "Поиск авиарейса";
+"flightSearchViewControllerFromLabel" = "Откуда:";
+"flightSearchViewControllerToLabel" = "Куда:";
+"flightDurationLabelText" = "Продолжительность полета: ";
+"flightDurationLabelUnits" = "ч.";
+"completeLoadDataLabelText" = "Загрузка данных завершена!";
+"departurePlaceTextFieldPlaceholder" = "Место отправления";
+"arrivalPlaceTextFieldPlaceholder" = "Место прибытия";
+"economySegmentedControl" = "Эконом";
+"businessSegmentedControl" = "Бизнес";
+"showTicketsButtonTitle" = "Показать билеты";
+"alertControllerInFlightSearchVCTitle" = "Ошибка поиска";
+"alertControllerInFlightSearchVCMessage1" = "Поля для поиска должны быть заполнены корректно";
+"alertControllerInFlightSearchVCActionClose" = "Закрыть";
+"alertControllerInFlightSearchVCActionSorry" = "Сожалею";
+"alertControllerInFlightSearchVCMessage2" = "Билеты на это направление не найдены";
+
+//MARK: - PlaceViewController
+"searchControllerSearchBarPlaceholderDeparture" = "Поиск места отправления";
+"searchControllerSearchBarPlaceholderArrival" = "Поиск места прибытия";
+"placeViewControllerFromLabel" = "Откуда";
+"placeViewControllerToLabel" = "Куда";
+"segmentedControlCity" = "Город";
+"segmentedControlAirport" = "Аэропорт";
+
+//MARK: - TicketsViewController
+"ticketsViewControllerTitle" = "Билеты";
+"favoritesViewControllerTitle" = "Избранное";
+"notificationCellFor" = " за: ";
+"notificationCellCurrencyUnit" = " руб.";
+"notificationName" = "Напоминание о билете";
+"alertController1InTicketsVCTitle" = "Успешно";
+"alertController1InTicketsVCMessage" = "Уведомление будет отправлено: ";
+"alertController1InTicketsVCActionClose" = "Закрыть";
+"alertController2InTicketsVCTitle" = "Действия с билетом";
+"alertController2InTicketsVCMessage" = "Что cделать с выбранным билетом?";
+"favoriteActionTitleDelete" = "Удалить из избранного";
+"favoriteActionTitleAdd" = "Добавить в избранное";
+"notificationActionTitle" = "Создать напоминание";
+"alertController3InTicketsVCTitle" = "Внимание!";
+"alertController3InTicketsVCMessage" = "Сначала сделайте этот билет избранным, чтобы создать напоминание";
+"alertController3InTicketsVCCancelAction" = "Закрыть";
+"favoritesSegmentedControlFinder" = "Поиск";
+"favoritesSegmentedControlMap" = "Карта";
+
+//MARK: - TicketTableViewCell and TicketFromMapCell
+"priceLabelCurrencyUnit" = " руб.";
+
+//MARK: - TravelDestinationsViewController
+"travelDestinationsViewControllerTitle" = "Направления для путешествий";
+"travelDestinationsVCsearchControllerPlaceholder" = "Искать направления для путешествий";
+
+//MARK: - MapViewController
+"mapViewControllerTitle" = "Карта";
+
+//MARK: - AircraftFleetViewController
+"aircraftFleetViewControllerTitle" = "Авиапарк";
+"aircraftFleetVCSearchControllerPlaceholder" = "Поиск самолета";
+"aircraftCapacityLabelText" = "Вместимость: ";
+

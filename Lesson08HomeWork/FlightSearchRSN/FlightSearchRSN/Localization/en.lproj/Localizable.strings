@@ -1,0 +1,88 @@
+/* 
+  Localizable.strings
+  FlightSearchRSN
+
+  Created by Sergey Razgulyaev on 15.02.2021.
+  
+*/
+
+//MARK: - PageViewController
+"titleAboutApplication" = "About Application";
+"titleTickets" = "Tickets";
+"titleMapWithPrices" = "Map with prices";
+"titleFavorites" = "Favorites";
+"contentAboutApplication" = "Use this app to find flights";
+"contentTickets" = "Find the cheapest flights";
+"contentMapWithPrices" = "View the map with ticket prices";
+"contentFavorites" = "Save tickets to favorites";
+"nextButtonTitle" = "Next";
+"readyButtonTitle" = "Ready";
+
+//MARK: - FinderViewController
+"finderViewControllerTitle" = "Finder";
+"mainLabelInFinderViewController" = "Find Your Flight";
+"newsLabelInFinderViewController" = "Flight News";
+"newsContentInFinderViewController" = "Sheremetyevo International Airport in Moscow reopened Terminal D in full operation from July 27, 2020. The airport is fully prepared for the restoration of international air traffic, taking into account the need to ensure the safety and health of passengers and guests.";
+"goToFlightSearchButtonTitle" = "Go to flight search";
+"travelDestinationsButtonTitle" = "Destinations for travel";
+
+//MARK: - FlightSearchViewController
+"flightSearchViewControllerTitle" = "Flight Search";
+"flightSearchViewControllerFromLabel" = "From:";
+"flightSearchViewControllerToLabel" = "To:";
+"flightDurationLabelText" = "Flight duration: ";
+"flightDurationLabelUnits" = "hours";
+"completeLoadDataLabelText" = "Data loading completed!";
+"departurePlaceTextFieldPlaceholder" = "Departure place";
+"arrivalPlaceTextFieldPlaceholder" = "The place of arrival";
+"economySegmentedControl" = "Economy";
+"businessSegmentedControl" = "Business";
+"showTicketsButtonTitle" = "Show tickets";
+"alertControllerInFlightSearchVCTitle" = "Search error";
+"alertControllerInFlightSearchVCMessage1" = "Search fields must be filled in correctly";
+"alertControllerInFlightSearchVCActionClose" = "Close";
+"alertControllerInFlightSearchVCActionSorry" = "Sorry";
+"alertControllerInFlightSearchVCMessage2" = "No tickets found for this direction";
+
+//MARK: - PlaceViewController
+"searchControllerSearchBarPlaceholderDeparture" = "Search departure place";
+"searchControllerSearchBarPlaceholderArrival" = "Search the place of arrival";
+"placeViewControllerFromLabel" = "From";
+"placeViewControllerToLabel" = "To";
+"segmentedControlCity" = "City";
+"segmentedControlAirport" = "Airport";
+
+//MARK: - TicketsViewController
+"ticketsViewControllerTitle" = "Tickets";
+"favoritesViewControllerTitle" = "Favorites";
+"notificationCellFor" = " for ";
+"notificationCellCurrencyUnit" = " rub.";
+"notificationName" = "Ticket reminder";
+"alertController1InTicketsVCTitle" = "Successfully";
+"alertController1InTicketsVCMessage" = "Notification will be sent: ";
+"alertController1InTicketsVCActionClose" = "Close";
+"alertController2InTicketsVCTitle" = "Actions with ticket";
+"alertController2InTicketsVCMessage" = "What should be done with the selected ticket?";
+"favoriteActionTitleDelete" = "Delete from Favorites";
+"favoriteActionTitleAdd" = "Add to Favorites";
+"notificationActionTitle" = "Create a reminder";
+"alertController3InTicketsVCTitle" = "Attention!";
+"alertController3InTicketsVCMessage" = "Make this ticket a favorite first to create a reminder";
+"alertController3InTicketsVCCancelAction" = "Close";
+"favoritesSegmentedControlFinder" = "Finder";
+"favoritesSegmentedControlMap" = "Map";
+
+//MARK: - TicketTableViewCell and TicketFromMapCell
+"priceLabelCurrencyUnit" = " rub.";
+
+//MARK: - TravelDestinationsViewController
+"travelDestinationsViewControllerTitle" = "Destinations for travel";
+"travelDestinationsVCsearchControllerPlaceholder" = "Search destinations for travel";
+
+//MARK: - MapViewController
+"mapViewControllerTitle" = "Map";
+
+//MARK: - AircraftFleetViewController
+"aircraftFleetViewControllerTitle" = "Aircraft fleet";
+"aircraftFleetVCSearchControllerPlaceholder" = "Search aircraft";
+"aircraftCapacityLabelText" = "Capacity: ";
